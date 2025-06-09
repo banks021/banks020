@@ -18,7 +18,7 @@
 
 3. **Deploy**  
    - [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/banks021/banks020)
-   - [![Deploy to Render](https://render.com/images/deploy-to-render.svg)](https://render.com/deploy?repo=https://github.com/banks021/banks020)
+   - [![Deploy to Render](https://render.com/images/deploy-to-render.svg)](https://dashboard.render.com/deploy?repo=https://github.com/banks021/banks020)
    - [![Deploy to Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/banks021/banks020)
 
 ---
@@ -36,4 +36,4 @@
 
 ---
 
-Thank you for using **Banks-MD**! We hope to make your WhatsApp experience easier and more efficient. 😊
+Thank you for using **Banks-MD**! We hope to make your banking experience easier and more efficient. 😊
