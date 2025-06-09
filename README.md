@@ -36,4 +36,4 @@
 
 ---
 
-Thank you for using **Banks-MD**! We hope to make your banking experience easier and more efficient. 😊
+Thank you for using **Banks-MD**! We hope to make your WhatsApp experience easier and more efficient. 😊
