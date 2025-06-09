@@ -91,8 +91,8 @@ function toFancyFont(text, isUpperCase = false) {
 
 // Image fetch utility
 async function fetchMenuImage() {
-  const primaryUrl = "https://files.catbox.moe/y2utve.jpg";
-  const fallbackUrl = "https://files.catbox.moe/9kL5x9Q.jpg";
+  const primaryUrl = "https://files.catbox.moe/e57dfu.jpg";
+  const fallbackUrl = "https://files.catbox.moe/e57dfu.jpg";
   for (let i = 0; i < 3; i++) {
     try {
       const response = await axios.get(primaryUrl, { responseType: "arraybuffer" });
