@@ -32,7 +32,7 @@
   [![Join Support Group](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-brightblue?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GwWH2FBD2E30sypmt0Arph)
 
 - **Developer Contact**  
-  [![Contact Developer](https://img.shields.io/badge/Contact%20Developer-Click%20Here-brightgreen?logo=whatsapp&style=for-the-badge&logoColor=white)](https://api.whatsapp.com/send?phone=256701038557)
+  [![Contact Developer](https://img.shields.io/badge/Contact%20Developer-Click%20Here-brightgreen?logo=whatsapp&style=for-the-badge&logoColor=white)](https://api.whatsapp.com/send?phone=256760447222)
 
 ---
 
