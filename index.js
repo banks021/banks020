@@ -6,7 +6,7 @@ import {
   fetchLatestBaileysVersion,
   DisconnectReason,
   useMultiFileAuthState,
-} from "baileys-pro";
+} from "baleys-pro";
 import { Handler, Callupdate, GroupUpdate } from "./data/index.js";
 import express from "express";
 import pino from "pino";
