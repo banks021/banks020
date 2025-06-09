@@ -1,19 +1,13 @@
 # `Banks-𝙈𝘿 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘽𝙤𝙩`
 
-
-
 ---
 
 ### `Hi there`
-
 
 ![Banner](https://files.catbox.moe/e57dfu.jpg)
 
 ---
 
----
-
----
 ## 🚀 Steps to Deploy
 
 1. **Fork the Repository**  
@@ -24,12 +18,8 @@
 
 3. **Deploy**  
    - [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/banks021/banks020)
-
-   - **Deploy to Render**  
-  - [![Deploy to Render](https://render.com/images/deploy-to-render.svg)](https://render.com/deploy?repo=https://github.com/banks021/banks020)
-
+   - [![Deploy to Render](https://render.com/images/deploy-to-render.svg)](https://render.com/deploy?repo=https://github.com/banks021/banks020)
    - [![Deploy to Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/banks021/banks020)
-
 
 ---
 
@@ -45,3 +35,5 @@
   [![Contact Developer](https://img.shields.io/badge/Contact%20Developer-Click%20Here-brightgreen?logo=whatsapp&style=for-the-badge&logoColor=white)](https://api.whatsapp.com/send?phone=256701038557)
 
 ---
+
+Thank you for using **Banks-MD**! We hope to make your banking experience easier and more efficient. 😊
