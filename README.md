@@ -17,7 +17,7 @@
 ## 🚀 Steps to Deploy
 
 1. **Fork the Repository**  
-   - [![Fork Banks-MD Here](https://img.shields.io/badge/Fork%20Toxic--MD%20Here-Click%20Here-brightgreen?style=for-the-badge&logo=git)](https://github.com/banks021/banks020/fork)
+   - [![Fork Banks-MD Here](https://img.shields.io/badge/Fork%20Banks--MD%20Here-Click%20Here-brightgreen?style=for-the-badge&logo=git)](https://github.com/banks021/banks020/fork)
 
 2. **QR Pairing**  
    - [![Link with WhatsApp](https://img.shields.io/badge/Scan%20QR%20Code-Click%20Here-brightblue?style=for-the-badge&logo=qrcode)](https://toxicmd.vercel.app/)
