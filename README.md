@@ -2,7 +2,7 @@
    <a><img src='https://files.catbox.moe/e57dfu.jpg'/></a>
 <p align="center">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ BANKS MD★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+BANKS+AND+ES+TEAMS;RELEASED+DATE+29%2F8%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ BANKS MD★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+BANKS+AND+BANKS+OFFICIAL;RELEASED+DATE+29%2F8%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
 <p align="center"><img src="https://profile-counter.glitch.me/{banks021}/count.svg" alt="paskito002 :: Visitor's Count" /></p>
@@ -65,4 +65,4 @@ GET YOUR SESSION ID FASTER THROUGH WEB SERVER...
   
   #### ```BANKS PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/banks021/count.svg)
-
+*I LOVE YOU 😘*
