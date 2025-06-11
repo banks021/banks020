@@ -19,7 +19,7 @@
     </p>
 <p align="center">
 
- ## ES_TEAMS-V2 Deployment Methods
+ ## BANKS_OFFICAIL-V2 Deployment Methods
 
 ### 1. FORK THIS REPO
 
@@ -59,7 +59,7 @@ GET YOUR SESSION ID FASTER THROUGH WEB SERVER...
 
 * [✅ Join Public Group ⚡](https://chat.whatsapp.com/GwWH2FBD2E30sypmt0Arph)
 
-- *ES_TEAMS-V2 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *BANKS_MD_BOT-V2 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use ES_TEAMS-V2 at your own risk by keeping this warning in mind.*
   
