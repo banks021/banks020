@@ -28,7 +28,7 @@
 ### 2. GET SESSION ID
 
 ### WEB SERVER 
-<a href="https://toxicmd.vercel.app"><img src="https://img.shields.io/badge/GET_SESSION_ID-blue" alt="Click Here to Get Qr/Pair-Code" width="110"></a> 
+<a href="https://pair.jeliostarrdev.space"><img src="https://img.shields.io/badge/GET_SESSION_ID-blue" alt="Click Here to Get Qr/Pair-Code" width="110"></a> 
 
 GET YOUR SESSION ID FASTER THROUGH WEB SERVER...
 
