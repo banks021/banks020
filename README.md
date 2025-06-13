@@ -37,7 +37,7 @@
 | Platform           | Badge                                         | Link                                                                 |
 |--------------------|-----------------------------------------------|----------------------------------------------------------------------|
 | **GitHub Repo**    | ![GitHub](https://img.shields.io/badge/Source-Code-success) | [Banks MD Source](https://github.com/banks021/banks020.git)         |
-| **WhatsApp Group** | ![WhatsApp](https://img.shields.io/badge/Community-Chat-green) | [Join Community](https://chat.whatsapp.com/YOUR_INVITE)             |
+| **WhatsApp Group** | ![WhatsApp](https://chat.whatsapp.com/GwWH2FBD2E30sypmt0Arph) | [Join Community](https://chat.whatsapp.com/YOUR_INVITE)             |
 | **Control Panel**  | ![Dashboard](https://img.shields.io/badge/Control-Panel-blue) | [Dashboard](https://bot-hosting.net/?aff=1274828280750407803)       |
 
 ---
